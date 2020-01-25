@@ -1,5 +1,5 @@
 class Cat
-  attr_accessor :owner, 
+  attr_accessor :owner
   attr_accessor :name 
   
   def initialize(name)
