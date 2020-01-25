@@ -1,7 +1,7 @@
 class Cat
   attr_accessor :Owner, :name 
   
-  def initialize(name)
-    @name = name 
+  def initialize
+    @name = name
   end 
 end
